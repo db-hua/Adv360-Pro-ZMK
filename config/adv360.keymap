@@ -92,8 +92,8 @@
             bindings = <
 &trans     &trans   &trans  &trans  &trans  &trans  &kp N0                                         &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans     &kp F11  &kp Q   &kp W   &kp E   &kp R   &kp T                                          &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&kp ESC    &kp F12  &kp A   &kp S   &kp D   &kp F   &kp G      &trans  &trans      &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&kp LSHFT  &trans   &trans  &trans  &trans  &trans                     &trans      &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+&trans     &kp F12  &kp A   &kp S   &kp D   &kp F   &kp G      &trans  &trans      &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans     &trans   &trans  &trans  &trans  &trans                     &trans      &trans                  &trans  &trans  &trans  &trans  &trans  &trans
 &kp RCTRL  &trans   &trans  &trans  &trans          &kp SPACE  &trans  &trans      &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
 
